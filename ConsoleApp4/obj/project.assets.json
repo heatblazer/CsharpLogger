@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\ivz\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectUniqueName": "C:\\Users\\IVZ\\Documents\\GitHub\\CsharpLogger\\ConsoleApp4\\ConsoleApp4.csproj",
       "projectName": "ConsoleApp4",
-      "projectPath": "c:\\users\\ivz\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectPath": "C:\\Users\\IVZ\\Documents\\GitHub\\CsharpLogger\\ConsoleApp4\\ConsoleApp4.csproj",
       "packagesPath": "C:\\Users\\IVZ\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\ivz\\source\\repos\\ConsoleApp4\\ConsoleApp4\\obj\\",
+      "outputPath": "C:\\Users\\IVZ\\Documents\\GitHub\\CsharpLogger\\ConsoleApp4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
